@@ -1,0 +1,13 @@
+                        -*-mode:org; coding:gb18030-*-
+
+ICacheD
+---------
+cache interface server and several cache implementation
+缓存接口服务器及几个缓存实现
+
+
+实现为一个统一的缓存接口，用于规范各类缓存的实现，并提供一些缓存模块或服务器的实现。
+
+-- 
+hepengfei <kebing.zh@gmail.com>
+2010-09-18
